@@ -67,7 +67,7 @@ public class UserServiceTest {
 	
 	//==> @Test를 주석처리 하고 실행하면....
 	//==> 
-	@Test
+	//@Test
 	public void testGetUser() throws Exception {
 		
 		System.out.println("\n===================================");
